@@ -1,0 +1,196 @@
+.body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#fafafa;
+}
+
+/* Header */
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 80px;
+    border-bottom:1px solid #dbdbdb;
+    background:white;
+}
+
+.logo{
+    width:90px;
+}
+
+.search-bar{
+    width:300px;
+    height:35px;
+    border:none;
+    border-radius:8px;
+    background:#efefef;
+    padding-left:15px;
+}
+
+.profile-pic{
+    width:45px;
+    height:45px;
+    border-radius:50%;
+}
+
+/* Main Layout */
+
+.page{
+    display:flex;
+    justify-content:center;
+    align-items:flex-start;
+    gap:40px;
+    margin-top:30px;
+}
+
+.main-content{
+    width:600px;
+}
+
+.suggestions{
+    width:300px;
+}
+
+/* Stories */
+
+.story-area{
+    display:flex;
+    gap:15px;
+    padding:15px;
+    background:white;
+    border:1px solid #dbdbdb;
+    border-radius:8px;
+    margin-bottom:20px;
+}
+
+.story{
+    width:65px;
+    height:65px;
+    border-radius:50%;
+    cursor:pointer;
+}
+
+/* Posts */
+
+.post{
+    background:white;
+    border:1px solid #dbdbdb;
+    border-radius:8px;
+    margin-bottom:25px;
+    overflow:hidden;
+}
+
+.post-header{
+    display:flex;
+    align-items:center;
+    padding:10px;
+}
+
+.post-image{
+    width:100%;
+    display:block;
+}
+
+.post-footer{
+    padding:10px;
+}
+
+.post-actions{
+    display:flex;
+    align-items:center;
+    margin-bottom:10px;
+}
+
+.action-icon{
+    width:24px;
+    height:24px;
+    margin-right:12px;
+    cursor:pointer;
+}
+
+.save-icon{
+    width:24px;
+    height:24px;
+    margin-left:auto;
+    cursor:pointer;
+}
+
+.likes{
+    font-weight:bold;
+    margin-bottom:5px;
+}
+
+.caption{
+    margin-bottom:5px;
+}
+
+.comments{
+    color:gray;
+    margin-bottom:5px;
+}
+
+.time{
+    color:gray;
+    font-size:12px;
+}
+
+/* Comment Box */
+
+.comment-box{
+    display:flex;
+    margin-top:10px;
+    border-top:1px solid #dbdbdb;
+    padding-top:10px;
+}
+
+.comment-box input{
+    flex:1;
+    border:none;
+    outline:none;
+}
+
+.comment-box button{
+    border:none;
+    background:none;
+    color:#0095f6;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+/* Suggestions */
+
+.suggest{
+    display:flex;
+    align-items:center;
+    margin-bottom:20px;
+}
+
+.suggestions-pic{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+}
+
+.list{
+    flex:1;
+    margin-left:10px;
+}
+
+.name{
+    font-weight:bold;
+}
+
+.tag{
+    color:gray;
+    font-size:13px;
+}
+
+.button{
+    border:none;
+    background:none;
+    color:#0095f6;
+    font-weight:bold;
+    cursor:pointer;
+}
+
