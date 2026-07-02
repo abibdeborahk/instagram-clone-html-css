@@ -4,7 +4,7 @@ An Instagram-inspired user interface built using **HTML5** and **CSS3**. This pr
 
 ## Preview
 
-![INSTAGRAM CLONE](instagram-clone-homepage.png)
+![INSTAGRAM CLONE](screenshots/instagram-clone-homepage.png)
 
 ## Live Demo
 
