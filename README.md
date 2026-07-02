@@ -1,15 +1,23 @@
 # Instagram Clone
 
-A responsive Instagram Clone built using HTML and CSS.
+An Instagram-inspired user interface built using **HTML5** and **CSS3**. This project recreates the basic layout and design of Instagram to strengthen my front-end development skills.
+
+## Preview
+
+![Instagram Clone](instagram-clone-homepage.png)
+
+## Live Demo
+
+https://abibdeborahk.github.io/instagram-clone-html-css/
 
 ## Features
 
-- Responsive Layout
-- Navigation Bar
-- Stories Section
-- Feed Design
-- Suggested Profiles
-- Modern Instagram-inspired UI
+- Instagram-inspired user interface
+- Navigation bar
+- Stories section
+- Feed layout
+- Suggested profiles
+- Clean and organized code
 
 ## Technologies Used
 
@@ -23,25 +31,31 @@ Instagram-Clone/
 │── index.html
 │── style.css
 │── images/
+│── screenshots/
+│── README.md
 ```
 
-## Learning Outcomes
+## What I Learned
 
 This project helped me improve my understanding of:
 
-- HTML structure
-- CSS Flexbox
-- Positioning
-- Responsive layouts
-- UI Design
+- HTML page structure
+- CSS styling
+- Flexbox
+- Positioning elements
+- Building clean user interfaces
+- Organizing project files
 
 ## Future Improvements
 
+- Make the website fully responsive using CSS media queries
 - Add JavaScript functionality
-- Dark Mode
-- Responsive Mobile View
-- Like and Comment Features
+- Implement like and comment interactions
+- Add dark mode
+- Improve accessibility
 
 ## Author
 
-Abib Deborah K
+**Abib Deborah K**
+
+- GitHub: https://github.com/abibdeborahk
